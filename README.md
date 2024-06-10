@@ -1,6 +1,6 @@
-# Support Vector Machine Project
+# TP - Support Vector Machine Project - SDTSIA210
 
-This project contains an implementation of both Linear and Non-Linear Support Vector Machines (SVM) in a Jupyter notebook. It also includes the mathematical concepts behind these algorithms.
+This project is part of the SDTSIA210 course at Télécom Paris. It contains an implementation of both Linear and Non-Linear Support Vector Machines (SVM) in a Jupyter notebook. It also includes the mathematical concepts behind these algorithms.
 
 ## Concepts Covered
 
