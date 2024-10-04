@@ -1,10 +1,19 @@
-# TP - Support Vector Machine Project - SDTSIA210
+# Support Vector Machines - SDTSIA210
 
-This project is part of the SDTSIA210 course at Télécom Paris. It contains an implementation of both Linear and Non-Linear Support Vector Machines (SVM) in a Jupyter notebook. It also includes the mathematical concepts behind these algorithms.
+This project, developed for the SDTSIA210 course at Télécom Paris, provides a comprehensive exploration of Support Vector Machines (SVMs) for binary classification. Implemented within a Jupyter Notebook, this project not only demonstrates the practical application of both Linear and Non-linear SVMs using the scikit-learn library but also delves into the fundamental mathematical concepts underpinning these algorithms.
 
 ## Concepts Covered
 
-- Linear SVM: This is a type of SVM that can be used when the data is linearly separable. It tries to find the best hyperplane that separates the data into different classes.
+## Linear SVM
+A **Linear Support Vector Machine (SVM)** is a supervised learning algorithm used for binary classification tasks. It works by finding the optimal hyperplane that best separates two classes in a dataset. This hyperplane maximizes the margin between the classes, ensuring a clear distinction with the fewest classification errors.
 
-- Non-Linear SVM: This type of SVM is used when the data is not linearly separable. It uses a kernel function to transform the data into a higher dimension where it is linearly separable.
+## Non-Linear SVM
+A **Non-Linear Support Vector Machine (SVM)** is an extension of the linear SVM that handles data that cannot be separated by a straight line (non-linearly separable). It uses the **kernel trick** to project the input data into a higher-dimensional space, where a linear hyperplane can then be used to separate the classes.
 
+
+## Libraries Used
+
+- NumPy
+- Matplotlib
+- Scikit-learn
+- SciPy
